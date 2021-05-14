@@ -1,5 +1,5 @@
-Name: Ironhacker Joanna
-Age: 25
+Name: Joanna
+Age: 34
 Favorite Color: Pink
 
 
